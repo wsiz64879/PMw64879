@@ -1,0 +1,178 @@
+body {
+  background-color: #525252;
+  font-family: Tahoma, sans-serif;
+  color: #fff;
+  padding: 20px;
+  background-image: url("http://localhost/w64879/img/naglowek1.jpg");
+}
+.fun2{
+		display: flex;
+		margin-left: 440px;
+	
+}
+
+.fun3{
+	display: flex;
+
+
+}
+
+.bzaloguj {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
+	background-color:#f9f9f9;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666 !important;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+
+}
+.bzaloguj:hover {
+	background:linear-gradient(to bottom, #e9e9e9 5%, #f9f9f9 100%);
+	background-color:#e9e9e9;
+}
+.bzaloguj:active {
+position:relative;
+	top:1px;
+}
+
+h2 {
+  color: #fff;
+}
+
+p {
+  color: #fff;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input[type="date"],
+input[type="text"],
+input[type="submit"] {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+table {
+  width: 100% !important;
+  border-collapse: collapse;
+
+}
+
+#czyszczenie{
+height: 10px;
+}
+
+#dd{
+
+	flex-wrap: wrap;
+	margin-left: -350px;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #000 !important;
+}
+
+th {
+  background-color: #f2f2f2;
+  color: #000;
+}
+
+#spd{
+margin-top: -5px;
+
+}
+
+tr.selected {
+  background-color: #e6e6e6;
+}
+
+
+#kal{
+
+margin-left: 0px;
+}
+
+#wyb{
+
+margin-left: -10px;
+}
+
+#tba1{
+	margin-left: 200px !important;
+}
+
+#navig{
+	
+	display: flex;
+	
+}
+
+
+a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+a:hover {
+  color: #44c767;
+}
+
+img {
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+h3 {
+  margin-top: 20px;
+}
+
+input[type="submit"].back {
+  margin-top: 10px;
+  background-color: #ccc;
+  color: #000;
+  padding: 5px 10px;
+  border: none;
+}
+
+input[type="submit"].back:hover {
+  background-color: #999;
+}
+
+#cont{
+	margin-left: 290px;
+	width: 70%;
+	background-color: rgba(255, 255, 255, 0.7);
+	padding: 2%;
+	margin-top: 40px;
+	border-radius: 40px;
+	color: black;
+}
+#cont h2{
+color: black;
+}
+#cont a{
+color: black;
+font- weight: bold !important;
+}
+
+#cont a:hover{
+color: green;
+
+}
+
+#zleccenia{
+
+}
